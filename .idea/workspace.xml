@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8ae1a35-24fd-4e45-832a-478d6c55ab6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ConferenceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ConferenceController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602520922091</updated>
       <workItem from="1602520925084" duration="1013000" />
-      <workItem from="1602522935763" duration="2373000" />
+      <workItem from="1602522935763" duration="2676000" />
     </task>
     <servers />
   </component>
